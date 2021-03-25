@@ -8,6 +8,7 @@ class Jenkin1ApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("--- running Test case ---");
     }
 
 }
